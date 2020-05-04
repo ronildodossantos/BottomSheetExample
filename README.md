@@ -2,7 +2,7 @@
 
 Projeto Java Android do artigo [Utilizando BottomSheet Material Design no Android](https://www.thiengo.com.br/utilizando-bottomsheet-material-design-no-android) do Blog [Thiengo.com.br](https://www.thiengo.com.br).
 
-Artigo que discute em detalhes a BottomSheet Material Design, que é na verdade um conjunto APIs que permitem a fácil adição de variados modelos de navegação dentro de um aplicativo Android.
+Artigo que discute em detalhes a BottomSheet Material Design, que é na verdade um conjunto de APIs que permitem a fácil adição de variados modelos de navegação dentro de um aplicativo Android.
 
 Modelos além do fomoso menu gaveta conseguido com o popular `NavigationDrawer`.
 
